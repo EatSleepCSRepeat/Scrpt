@@ -19,4 +19,4 @@ Programming language written in **C++**.
 
 
 ********************************************************************************************************
-#                               PackageWiter & Scrpt Team
+#                               PackageWither & Scrpt Team
