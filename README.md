@@ -10,7 +10,7 @@ Programming language written in **C++**.
         left: 25%;
     }
 </style>
-<img src="readme_assets/scrpt.png" height="300" class="banner">
+<img src="scrpt/readme_assets/scrpt.png" height="300" class="banner">
 
 ## Features:
 - Print to the console
