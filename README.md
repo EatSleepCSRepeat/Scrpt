@@ -9,6 +9,9 @@ Programming language written in **C++**.
 - Install packages (with `pacwit`)
 - /define to define variables
 
-
+********************************************************************************************************
+# Changelog
+- 6/26/24 - Added V1.0
+- 6/27/24 - Added V1.1 with more features
 ********************************************************************************************************
 #                               PackageWither & Scrpt Team
